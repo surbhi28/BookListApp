@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="title_activity_login">login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="address">Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="aboutus">The Amazon Kindle app is the best place to start reading books online. If you are already a Kindle owner wanting to move your library to more devices, the app automatically syncs up with all your purchases. It features a robust, well-designed marketplace where Kindle Unlimited and Amazon Prime members can simply select and download eBooks directly in the app. Full of fancy features like X-Ray and Whispersync, the Kindle iOS and Android offering is certainly a first-class mobile app.
+
+You can even have Alexa to read your Echo read books out loud. It ends up being a great app to download if you love to read, and Kindle Unlimited is a solid service for $9.99 a month - despite lacking some books from major publishers such as Penguin Random House. Due to its breadth, it is still one of the best apps for book lovers, but some other apps on this list go all-in on certain aspects that some readers may appreciate if they are looking for a more specialized experience.</string>
+
+</resources>
